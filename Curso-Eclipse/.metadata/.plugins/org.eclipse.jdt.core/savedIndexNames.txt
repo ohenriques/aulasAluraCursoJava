@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\ricks\eclipse-workspace\Curso-Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+688860299.index
+2162608668.index
