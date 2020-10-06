@@ -7,6 +7,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\ricks\Desktop\java6-cap8"/>
 			<item value="C:\Users\ricks\Desktop\Nova pasta"/>
 			<item value="C:\Users\ricks\eclipse-workspace\Curso-Java"/>
 		</list>
