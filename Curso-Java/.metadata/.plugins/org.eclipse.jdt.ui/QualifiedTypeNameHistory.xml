@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jdk.tools.jaotc.collect.directory.DirectorySource"/>
-    <fullyQualifiedTypeName name="jdk.nashorn.internal.runtime.arrays.ArrayLikeIterator"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.util.Class2HTML"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.code.Attribute.Array"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
@@ -60,4 +57,7 @@
     <fullyQualifiedTypeName name="java.security.NoSuchAlgorithmException"/>
     <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.awt.dnd.peer.DropTargetPeer"/>
+    <fullyQualifiedTypeName name="br.com.alura.maven.Produto"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
 </qualifiedTypeNameHistroy>
